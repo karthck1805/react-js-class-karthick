@@ -1,5 +1,4 @@
 React useState
-
 React useEffect
 React useContext -
 React useRef 
@@ -7,7 +6,7 @@ React useReducer -
 React useCallback 
 React useMemo
 React Custom Hooks
-
+React.memo
 props ,
 custormcomponents,
 forms - validaction ,
