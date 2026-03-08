@@ -11,7 +11,7 @@ React useReducer -
 React useCallback 
 React useMemo
 React Custom Hooks
-
+React.memo
 props ,
 custormcomponents,
 forms - validaction ,
