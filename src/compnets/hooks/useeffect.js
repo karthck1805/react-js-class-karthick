@@ -10,7 +10,7 @@ const UseEffect = () => {
             setUser(res.data);
         }
         getuserDetails();
-    })
+    }, [])
     return (
         <div>
             <h1>UseEffect Hook</h1>
