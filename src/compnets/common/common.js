@@ -7,5 +7,3 @@ export const CustomButton = React.memo(({ text, onClick }) => {
     )
 })
 
-
-
